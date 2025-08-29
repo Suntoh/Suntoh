@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&amp;logo=python&amp;logoColor=blue" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" style="max-width: 100%;">
- <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white">
+ <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" style="max-width: 100%;">
 </p>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Framework and Library</h2></div>
 <p align="center" dir="auto">
@@ -34,9 +34,11 @@
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style= "max-width: 100%;">
  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" style="max-width: 100%;">
- <img src="https://img.shields.io/badge/Databricks-FF3621?tyle=for-the-badge&logo=databricks&logoColor=fff" style="max-width: 100%;">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000">
- <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
+ <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" style="max-width: 100%;">
+ <img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white">
+ <img src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044">
+ <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe">
 </p>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Credits :</h2></div>
 
